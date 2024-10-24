@@ -1,5 +1,6 @@
 - 👋 Hi, I’m  Suraj Raj   
-- 🌱 I’m currently learning programming language mainly C and python. 
+- 🌱 I’m currently learning programming language & Data Structure in mainly C and python.
+ 
 
 
 <!---
